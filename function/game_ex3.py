@@ -32,7 +32,7 @@ def handle_boundary():
         p.y = 0
     elif p.y < 0:
         p.y = HEIGHTs
-        a
+        
 
 def update():
     p_move()# function call
